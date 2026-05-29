@@ -88,9 +88,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabell Furkert"
-    subtitle: "Digital Linguistics"
-    content: "Based in Ljubljana, Slovenia."
+    title: "Isabell."
+    subtitle: "Digital Linguist"
+    content: "Digital Linguistics student and researcher at the Jožef Stefan Institute, Ljubljana."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -238,17 +238,24 @@ params:
         content: |-
           Certificate in German in Multilingual Contexts (DaF/DaZ), Grade 1.1 (Apr 2022 - Mar 2023).
 
-          Extracurricular Activities
-          - Co-hosted "Crimes and Cats", a feminist true crime podcast with 2,500+ downloads (Dec 2021 - Jan 2025). Responsible for hosting, editing, and social media management.
-          - Core organiser of the Linguistik Meetup Berlin-Brandenburg 2023, a national student linguistics conference. Responsibilities included financing, planning, advertising, and on-site coordination.
-          - Designed a sport app prototype in Figma (100+ hours), covering UX research, wireframing, and visual design.
-          - Participant at StuTS (Student Conference for Linguistics) and TaCoS (Conference for Computational Linguistics Students), 2022 - 2026.
+          
 
       - title: "High School Diploma (Abitur)"
         school:
           name: "Fichte-Gymnasium Karlsruhe"
           url: "https://www.fichte-gymnasium.de/"
         date: "2010 - 2018"
+
+  - title: "Extracurricular Activities"
+        school:
+          name: ""
+          url: ""
+        date: "2021 - 2026"
+        content: |-
+          - Co-hosted "Crimes and Cats", a feminist true crime podcast with 2,500+ downloads (Dec 2021 - Jan 2025). Responsible for hosting, editing, and social media management.
+          - Core organiser of the [Linguistik Meetup Berlin-Brandenburg](https://www.meetup.junge-sprachwissenschaft.de/en/) 2023, a national student linguistics conference. Responsibilities included financing, planning, advertising, and on-site coordination.
+          - Designed a sport app prototype in Figma (100+ hours), covering UX research, wireframing, and visual design.
+          - Participant at [StuTS](https://stuts.de/) (Student Conference for Linguistics) and [TaCoS](https://linguistik.computer/) (Conference for Computational Linguistics Students), 2022 - 2026.
 
   achievements:
     enable: true
