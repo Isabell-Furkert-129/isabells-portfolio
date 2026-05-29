@@ -246,7 +246,7 @@ params:
           url: "https://www.fichte-gymnasium.de/"
         date: "2010 - 2018"
 
-  - title: "Extracurricular Activities"
+      - title: "Extracurricular Activities"
         school:
           name: ""
           url: ""
